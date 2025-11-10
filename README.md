@@ -33,7 +33,20 @@ Cada arquivo tem o **número do problema** no nome, facilitando a busca.
 | **1006 - Média 2** | JS | ✅ Resolvido |
 | **1007 - Diferença** | JS | ✅ Resolvido |
 | **1008 - Salário 1** | JS | ✅ Resolvido |
+| **1009 - Salário com Bônus** | JS | ✅ Resolvido |
+| **1010 - Cálculo Simples** | JS | ✅ Resolvido |
+| **1011 - Esfera** | JS | ✅ Resolvido |
+| **1012 - Área** | JS | ✅ Resolvido |
+| **1013 - O Maior** | JS | ✅ Resolvido |
+| **1014 - Consumo** | JS |✅ Resolvido  |
+| **1015 - Distância Entre Dois Pontos** | JS | ✅ Resolvido |
+| **1016 - Distância** | JS | ⏳ A fazer  |
+| **1017 - Gasto de Combustível** | JS | ⏳ A fazer  |
+| **1018 - Cédulas** | JS | ⏳ A fazer  |
+| **1019 - Conversão de Tempo** | JS | ⏳ A fazer  |
+| **1020 - Idade em Dias** | JS | ⏳ A fazer  |
 | **1047 - Tempo de Jogo com Minutos** | JS | ✅ Resolvido |
+
 
 > Legenda: ✅ Resolvido | 🔄 Em andamento | ⏳ A fazer  
 
